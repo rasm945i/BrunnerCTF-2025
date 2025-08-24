@@ -1,9 +1,9 @@
 # Train Mania
 
 ### Challenge information
-Category: OSINT
-Difficulty: Easy
-Author: Quack
+Category: OSINT  
+Difficulty: Easy  
+Author: Quack  
 
 I recently stumpled upon this cool train! But I'd like to know a bit more about it... Can you please tell me the operating company, model number and its maximum service speed (km/h in regular traffic)?
 

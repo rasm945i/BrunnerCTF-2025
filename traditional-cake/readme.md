@@ -1,9 +1,9 @@
 # Traditional Cake
 
 ### Challenge information
-Category: OSINT
-Difficulty: Medium
-Author: OddNorseman
+Category: OSINT  
+Difficulty: Medium  
+Author: OddNorseman  
 
 I tried this amazing traditional cake at this amazing place I visited... but now I don't remember what it was called and where I was. All I have is this picture I took some time before.
 
