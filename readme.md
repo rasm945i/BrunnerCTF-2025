@@ -1,7 +1,7 @@
 ### BrunnerCTF 2025
 Personal score:  
-![alt text](image.png)  
+![alt text](personal-page.png)  
 *Traditional Cake is a stats ruining challenge*  
   
 Team score:  
-![alt text](image-1.png)
+![alt text](team-score.png)
